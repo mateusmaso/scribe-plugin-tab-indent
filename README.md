@@ -1,2 +1,2 @@
-scribe-plugin-tab-indent.js
-===========================
+scribe-plugin-tab-indent
+========================
